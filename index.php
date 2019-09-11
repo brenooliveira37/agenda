@@ -44,7 +44,7 @@ Desenvolvimento para pratica
             Site criado para teste e praticas, para não perder o Habito.
         </p>
         <?php
-        // put your code here
+      
         ?>
     </body>
 </html>
